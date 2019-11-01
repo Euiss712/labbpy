@@ -5,6 +5,7 @@
 2. sesuaikan dengan arsitektur komputer kita,menggunakan 64 bit atau 32 bit
 3. setelah selesai download,instal git di windows
 4. untuk mecobanya bisa buka cmd lalu ketik git --version
+![cek git](https://user-images.githubusercontent.com/57046596/68004544-848a4100-fca4-11e9-979a-8efde13761b1.png)
 ![masuk ke cmd](https://user-images.githubusercontent.com/57046596/68003369-9e755500-fc9f-11e9-85ae-741d8f29ce15.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/57046596/68003494-34a97b00-fca0-11e9-9be7-0661ba8b1388.png)
 5. membuat direktory aktif dengan nama labs_pemrograman1
@@ -22,23 +23,21 @@
 ![new repository](https://user-images.githubusercontent.com/57046596/68004189-17c27700-fca3-11e9-8a73-9d5fe45b3b93.png)
 12. isi nama repository dengan nama labbpy
 ![labbpy](https://user-images.githubusercontent.com/57046596/68004320-a6cf8f00-fca3-11e9-8fab-644aaa9db25d.png)
-13. klik tombol new repository
-14. jalankan perintah git init untuk membuat repository local
+13. jalankan perintah git init untuk membuat repository local
 ![git init](https://user-images.githubusercontent.com/57046596/68004449-23fb0400-fca4-11e9-8eb7-b294ed415a0d.png)
-15. terbentuknya satu direktori hidden dengan nama .git
-![cek git](https://user-images.githubusercontent.com/57046596/68004544-848a4100-fca4-11e9-979a-8efde13761b1.png)
-16. selanjutny membuat satu file bernama README.md.jalan kan perintah $ echo "#Latihan 1" >> README.md
+14. terbentuknya satu direktori hidden dengan nama .git
+15. selanjutny membuat satu file bernama README.md.jalan kan perintah $ echo "#Latihan 1" >> README.md
 ![echo](https://user-images.githubusercontent.com/57046596/68004672-f2366d00-fca4-11e9-9e4d-ab7864481c95.png)
-17. Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add README.md
+16. Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add README.md
 ![git add](https://user-images.githubusercontent.com/57046596/68005032-66254500-fca6-11e9-9c51-4884ce45a5d7.png)
-18.Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintaah $ git commit -m “first commit”
+17.Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintaah $ git commit -m “first commit”
 ![git commit](https://user-images.githubusercontent.com/57046596/68004892-ba7bf500-fca5-11e9-8898-2478730f9b6d.png)
-19. Perubahan berhasil disimpan.
-20. Untuk menambahkan remote repository server, gunakan perintah git remote add origin https://github.com/Euiss712/labbpy.git
+18. Perubahan berhasil disimpan.
+19. Untuk menambahkan remote repository server, gunakan perintah git remote add origin https://github.com/Euiss712/labbpy.git
 ![git remote](https://user-images.githubusercontent.com/57046596/68005245-3296ea80-fca7-11e9-80a9-b63665f0bdf7.png)
-21. Untuk mengirim perubahan pada local repository ke server gunakan perintah $ git push -u origin master
+20. Untuk mengirim perubahan pada local repository ke server gunakan perintah $ git push -u origin master
 ![git push](https://user-images.githubusercontent.com/57046596/68005387-b7820400-fca7-11e9-88fa-2f2788048c52.png)
-22. Clone repository.Untuk melakukan cloning, gunakan perintah git clone https://github.com/Euiss712/labbpy.git
+21. Clone repository.Untuk melakukan cloning, gunakan perintah git clone https://github.com/Euiss712/labbpy.git
 ![clone](https://user-images.githubusercontent.com/57046596/68005606-5d357300-fca8-11e9-8681-a665b775de4d.png)
 
 
